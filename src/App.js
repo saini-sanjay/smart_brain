@@ -36,6 +36,9 @@ const particlesOptions={
                       enable: true,
                       value_area:8000
                     }
+                    style:{
+                      width:'100%'
+                    }
                   }
                 }
               }
