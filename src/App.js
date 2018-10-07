@@ -38,9 +38,7 @@ const particlesOptions={
                     }
 
                   }
-                  style:{
-                      width:100%
-                    }
+                
                 }
               }
 class App extends Component {
